@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = algorithmEfficiency
-build_property.ProjectDir = /Users/michalszura/Projects/algorithmEfficiency/algorithmEfficiency/
+build_property.ProjectDir = /Users/michalszura/Documents/GitHub/Algorithm-Efficiency-WSEI/algorithmEfficiency/algorithmEfficiency/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

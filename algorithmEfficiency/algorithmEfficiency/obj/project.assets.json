@@ -1759,11 +1759,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/michalszura/Projects/algorithmEfficiency/algorithmEfficiency/algorithmEfficiency.csproj",
+      "projectUniqueName": "/Users/michalszura/Documents/GitHub/Algorithm-Efficiency-WSEI/algorithmEfficiency/algorithmEfficiency/algorithmEfficiency.csproj",
       "projectName": "algorithmEfficiency",
-      "projectPath": "/Users/michalszura/Projects/algorithmEfficiency/algorithmEfficiency/algorithmEfficiency.csproj",
+      "projectPath": "/Users/michalszura/Documents/GitHub/Algorithm-Efficiency-WSEI/algorithmEfficiency/algorithmEfficiency/algorithmEfficiency.csproj",
       "packagesPath": "/Users/michalszura/.nuget/packages/",
-      "outputPath": "/Users/michalszura/Projects/algorithmEfficiency/algorithmEfficiency/obj/",
+      "outputPath": "/Users/michalszura/Documents/GitHub/Algorithm-Efficiency-WSEI/algorithmEfficiency/algorithmEfficiency/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/michalszura/.nuget/NuGet/NuGet.Config"
@@ -1784,11 +1784,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {

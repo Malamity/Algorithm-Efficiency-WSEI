@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GMyYYEvdmWi7bb36HcaNvstjpdyxNFwRSfM7dwiapCthZ+0k7JBlWZVs+a5SIV78XV+sfBs/JlUUPNswPE4sRw==",
+  "dgSpecHash": "cVZGjN+uYr+g+P7vIZ2Ev58iF52ozWAn5Duc60Sj5jGtUfCjQ5dgSOjI4vK+YPDRfh3HLwiW8r7yo3sSMYnCRw==",
   "success": true,
-  "projectFilePath": "/Users/michalszura/Projects/algorithmEfficiency/algorithmEfficiency/algorithmEfficiency.csproj",
+  "projectFilePath": "/Users/michalszura/Documents/GitHub/Algorithm-Efficiency-WSEI/algorithmEfficiency/algorithmEfficiency/algorithmEfficiency.csproj",
   "expectedPackageFiles": [
     "/Users/michalszura/.nuget/packages/benchmarkdotnet/0.13.12/benchmarkdotnet.0.13.12.nupkg.sha512",
     "/Users/michalszura/.nuget/packages/benchmarkdotnet.annotations/0.13.12/benchmarkdotnet.annotations.0.13.12.nupkg.sha512",
